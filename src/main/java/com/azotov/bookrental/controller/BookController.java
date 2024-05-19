@@ -1,7 +1,5 @@
 package com.azotov.bookrental;
 
-import com.azotov.bookrental.Book;
-import com.azotov.bookrental.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
